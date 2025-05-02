@@ -20,7 +20,7 @@ public class DrivingLicense {
         // Actualiza los puntos aquí
         puntosCarnet = puntosCarnet - 3;
 
-        System.out.println("Te han retiraod el carnet y ahora lo has recuperado, ganas 8 puntos");
+        System.out.println("Te han retirado el carnet y ahora lo has recuperado, ganas 8 puntos");
         // Actualiza los puntos aquí
         puntosCarnet = puntosCarnet + 8;
 
@@ -32,7 +32,7 @@ public class DrivingLicense {
         // Actualiza los puntos aquí
         puntosCarnet = puntosCarnet + 2;
 
-        System.out.println("¿Cuántos puntos tienes");
+        System.out.println("¿Cuántos puntos tienes?");
         // Imprimir el total de puntos que tienes actualmente
         System.out.println(puntosCarnet);
 
