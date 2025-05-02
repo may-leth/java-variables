@@ -4,10 +4,10 @@ public class AboutMe {
 
         //Escribe tu código aquí
         String nombre = "May";
-        int edad = 28;
+        byte edad = 28;
         String pais = "Colombia";
         String lenguajeProgramacion = "Java";
-        int horas = 21;
+        byte horas = 21;
         String pasatiempo = "Video juegos";
         String lugar = "Cama";
 
